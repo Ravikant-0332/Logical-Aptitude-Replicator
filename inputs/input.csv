@@ -1,0 +1,121 @@
+S. No,question content,Option A,Option B,Option C,Option D,Option E,Explanation,Key,SUB TOPIC,Difficuilty,pool,Image (if any)
+1,"How much does a watch lose or gain per day, if its hands coincide every 65 minutes?",${14\frac{8}{143}}$ mins,${11\frac{9}{143}}$ mins,${10\frac{10}{143}}$ mins,${11\frac{11}{143}}$ mins,,"Hands of any accurate clock coincide after every 65 minutes $\frac{5}{11}$ of a minute i.e; ${65\frac{5}{11}}$
+  
+Gain in 65 mins = (${65\frac{5}{11}}$ - 65)  
+= $\frac{720}{11}$ -$\frac{715}{11}$  
+=$\frac{5}{11}$
+Gain in 24 hrs = ($\frac{5}{11}$) * ($\frac{1}{65}$)*(24)*60 mins  
+=${10\frac{10}{143}}$ mins",Option C,LOGICAL_CLOCKS,HARD,CLOCKS3_DP_1,
+2,"If the hands of a clock coincide every 64 minutes, how much time does the clock gain or lose in 12 hours?",${11\frac{2}{11}}$ mins,${10\frac{6}{11}}$ mins,${12\frac{4}{11}}$ mins,${16\frac{4}{11}}$ mins,,"Hands of any accurate clock coincide after every ${65\frac{5}{11}}$ mins.  
+But, Here clock coincides after 64 mins.  
+  
+Gains in 64 minutes= (${65\frac{5}{11}}$- 64)  
+=($\frac{720}{11}$) -($\frac{704}{11}$)  
+=$\frac{16}{11}$  
+Means Gains( positive value)  
+Gains in 64 mins = $\frac{16}{11}$  
+Gains in 12 hrs = ($\frac{16}{11}$)*($\frac{1}{64}$)*12*60  
+=($\frac{1}{11}$)*($\frac{1}{4}$)*12*60  
+= $\frac{3*60}{11}$  
+=$\frac{180}{11}$  
+=${16\frac{4}{11}}$ mins",Option D,LOGICAL_CLOCKS,MEDIUM,CLOCKS3_DP_2,
+3,What is the actual time if the time shown by the watch in a mirror is 4:10?,6 : 50,7 : 30,7 : 50,8 : 20,,"If it is 12 hrs clock, then subtract the given timing from 11:60 hrs.  
+  
+For mirror image  
+(11-hours ) : (60 - minutes)  
+The mirror image of 4: 10 = (11-4) : (60-10)  
+= 7: 50 ",Option C,LOGICAL_CLOCKS,EASY,CLOCKS3_DP_3,
+4,"A watch, which gains uniformly, was observed to be 2 minutes, slow at 7 a.m. on a Monday.On the subsequent Wednesday at 7 p.m.It was noticed that the watch was 6 minutes fast.When did watch show the correct time?",10:00 pm on Monday,7:00 pm on Monday,11:00 pm on Monday,8:00 am on Monday,,"7 am on Monday to 7 am on Tuesday is 24 hrs  
+7 am on Tuesday to 7 am on Wednesday is 24 hrs  
+7 am to 7 pm is 12 hrs  
+Total hrs = (24+24+12)  
+= 60 hrs  
+gain = (2 mins + 6 mins) = 8 mins  
+8 minutes gain in 60 hrs  
+2 mins = ($\frac{60}{8}$)*2  
+=($\frac{60}{4}$) = 15 hrs  
+The Correct time is 15 hours after 7 AM on Monday i.e 10 PM Monday",Option A,LOGICAL_CLOCKS,MEDIUM,CLOCKS3_DP_4,
+5,"The time on the watch is 2:30. If the minute hand points towards the south, the hour hand will point towards",North-South,North-East,East-West,North,,"The minute hand is at 6 o’clock, which is pointing south.
+The hour hand moves 30° per hour.
+At 2:30, the hour hand is halfway between 2 and 3.
+If 12 o’clock is north, then 3 o’clock is east.
+The hour hand at 2:30 is between north and east.
+So, the hour hand points north - east.",Option B,LOGICAL_CLOCKS,EASY,CLOCKS3_DP_5,
+6,A watch is 3 minutes slow at 10 pm. on Monday and 6 minutes fast at 10 pm. on Wednesday. When did it show the correct time?,2 PM on Tuesday,3 AM on Tuesday,5 AM on Tuesday,1 AM on Tuesday,,"10 pm on Monday to 10 pm is Wednesday = 48 hours  
+Watch gains = (3 mins + 6 mins) = 9 mins  
+9 minutes gained in 48 hours  
+In 3 mins = ($\frac{48}{9}$)*3  
+=$\frac{48}{3}$
+=16 hrs  
+The correct time is 16 hours after 10 PM on Monday.
+10 pm- 10 am is 12 hours on Tuesday  
+The correct time is 2 pm on Tuesday",Option A,LOGICAL_CLOCKS,MEDIUM,CLOCKS3_DP_6,
+7,A clock runs 65 minutes for every hour. If they are set correctly at 8 A.M. on Monday then what will be the time shown in the watch after 24 hrs?,12 PM on Tuesday,9 AM on Tuesday,10 AM on Tuesday,11 AM on Tuesday,,"1 hour = 60 mins  
+Here 65 mins in 1 hour means 5 mins gains.  
+1 hour = 5 mins gain  
+24 hours = 24*5 =120 mins =$\frac{120}{60}$hrs =2 hrs  
+
+26 hrs after 8 AM on monday is 
+8 am+ 2 hrs  = 10 am  
+10 am on Tuesday",Option C,LOGICAL_CLOCKS,MEDIUM,CLOCKS3_DP_7,
+8,What is the actual time if the time shown by the watch in a mirror is 5:25?,6 : 50,7 : 30,7 : 50,6 : 35,,"If it is 12 hrs clock, then subtract the given timing from 11:60 hrs.  
+  
+For mirror image  
+(11-hours ) : 60 - minutes)  
+The mirror image of 5: 25 = (11-5) : (60-25)  
+= 6: 35",Option D,LOGICAL_CLOCKS,EASY,CLOCKS3_DP_8,
+9,"If the hands of a clock coincide every 64 minutes, how much time does the clock gain or lose in 77 hours?",100,110,125,105,,"Hands of any accurate clock coincide after every ${65\frac{5}{11}}$ mins.  
+But, Here clock coincides after 64 mins.  
+  
+= (${65\frac{5}{11}}$- 64)  
+=($\frac{720}{11}$) - ($\frac{704}{11}$)  
+=16/11  
+Means Gains( positive value)  
+Gains in 64 mins = $\frac{16}{11}$
+Gains in 77 hrs = ($\frac{16}{11}$)*($\frac{1}{64}$) * 60 * 77  
+= 105 min",Option D,LOGICAL_CLOCKS,MEDIUM,CLOCKS3_DP_9,
+10,"The time on the watch is 7:30. If the minute hand points towards the west, the hour hand will point towards",South-West,North-East,North-West,North,,"Minute hand indicating in west direction,
+Means,
+12 ----East
+6  ----- west
+9  ----- North
+3 ---- south
+ Hence,
+7 indicates North - West",Option C,LOGICAL_CLOCKS,EASY,CLOCKS3_DP_10,
+11,"A watch, which gains uniformly, was observed to be 6 minutes, slow at 12 a.m. on a Friday.On the subsequent Sunday at 6 p.m.It was noticed that the watch was 5 minutes fast.When did watch show the correct time?",10:00 PM on Saturday,7:00 PM on Sunday,11:00 PM on Friday,12:00 PM on Saturday,,"12 am on Friday to 12 am on Saturday is 24 hrs  
+12 am on Saturday to 12 am on Sunday is 24 hrs  
+12 am to 6 pm is 18 hrs  
+Total hrs = (24+24+18)  
+= 66 hrs  
+gain = (6 mins + 5 mins) = 11 mins  
+11 minutes gain in 66 hrs  
+6 mins = ($\frac{66}{11}$)*6  
+=36 hrs  
+12 am Friday + 36hr = 12 pm Saturday",Option D,LOGICAL_CLOCKS,MEDIUM,CLOCKS3_DP_11,
+12,What is the actual time if the time shown by the watch in a mirror is 10:15?,6 : 50,7 : 30,7 : 50,1 : 45,,"If it is 12 hrs clock, then subtract the given timing from 11:60 hrs.  
+  
+For mirror image  
+(11-hours ) : 60 - minutes)  
+The mirror image of 10: 15 = (11-10) : (60-15)  
+= 1: 45",Option D,LOGICAL_CLOCKS,EASY,CLOCKS3_DP_12,
+13,"A watch, which gains uniformly, was observed to be 10 minutes, slow at 6 a.m. on a Wednesday. On the subsequent Friday at 6 p.m. It was noticed that the watch was 20 minutes fast. When did watch show the correct time?",10:00 PM on Wednesday,7:00 PM on Thursday,11:00 PM on Wednesday,2:00 AM on Thursday,,"6 am on Wednesday to 6 am on Thursday is 24 hrs  
+6 am on Thursday to 6 am on Friday is 24 hrs  
+6 am to 6 pm is 12 hrs  
+Total hrs = (24+24+12)  
+= 60 hrs  
+gain = (10 mins + 20 mins) = 30 mins  
+30 minutes gain in 60 hrs  
+10 mins = ($\frac{60}{30}$)*10  
+=20 hrs  
+6 am Wednesday + 20hr = 2 am Thursday",Option D,LOGICAL_CLOCKS,MEDIUM,CLOCKS3_DP_13,
+14,"The time on the watch is 12 :30. If the hour hand points towards the west, the minutes hand will point towards",South-West,East,North-West,North-East,,"Hour hand indicating in the west direction,
+This means, normally at 12:30 hours hand points towards the north east.
+It turns 135 degrees anti-clockwise and points at the west.
+Similarly, the Minute hand should point south at 12:30. But it will also turn 135 degrees anti-clockwise 
+Minute hand points at the north-east.",Option D,LOGICAL_CLOCKS,MEDIUM,CLOCKS3_DP_14,
+15,What is the actual time if the time shown by the watch in a mirror is 8:15?,6 : 50,7 : 30,7 : 50,3 : 45,,"If it is 12 hrs clock, then subtract the given timing from 11:60 hrs.  
+  
+For mirror image  
+(11-hours ) : 60 - minutes)  
+The mirror image of 8: 15 = (11-8) : (60-15)  
+= 3: 45",Option D,LOGICAL_CLOCKS,EASY,CLOCKS3_DP_15

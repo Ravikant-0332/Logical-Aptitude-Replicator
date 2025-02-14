@@ -1,0 +1,345 @@
+"How much does a watch lose or gain per day, if its hands coincide every 65 minutes?","Hands of any accurate clock coincide after every 65 minutes $\frac{5}{11}$ of a minute i.e; ${65\frac{5}{11}}$  
+  
+Gain in 65 mins = (${65\frac{5}{11}}$ - 65)  
+= $\frac{720}{11}$ -$\frac{715}{11}$  
+=$\frac{5}{11}$
+Gain in 24 hrs = ($\frac{5}{11}$) * ($\frac{1}{65}$)*(24)*60 mins  
+=${10\frac{10}{143}}$ mins",CLOCKS
+A watch is 3 minutes slow at 10 pm. on Monday and 6 minutes fast at 10 pm. on Wednesday. When did it show the correct time?,"10 pm on Monday to 10 pm is Wednesday = 48 hours  
+Watch gains = (3 mins + 6 mins) = 9 mins  
+9 minutes gained in 48 hours  
+In 3 mins = ($\frac{48}{9}$)*3  
+=$\frac{48}{3}$
+=16 hrs  
+The correct time is 16 hours after 10 PM on Monday.
+10 pm- 10 am is 12 hours on Tuesday  
+The correct time is 2 pm on Tuesday",CLOCKS
+What is the day of the date 12/4/2022?,"12 days
+12 is divided by 7 we get the remainder as 5
+5 odd days in 12 days ( 12 days = 1 week + 5 odd days)
+ 
+4 month -April
+2022 is not divisible 4, So it is not a leap year
+So Feb has 0 odd day
+Here we consider months before April
+Month      Odd days
+Jan             3
+Feb            0
+March        3 
+Total odd days before April month =(3+3) =6 
+
+The 2021 year is considered 2000 + 21
+2000 is divisible by 400 (which means it is one of the century leap years), So, odd days are 0.
+In 21 years we have 5 leap years and 17 normal years
+=Leap year + Normal year
+ =(5*2) + (16*1)
+ =10+ 16
+  =26
+26 is divided by 7 we get  5 odd days
+
+Total odd days = Odd days in 12 days + Odd days before April  + Odd days in 2021
+                        =  5 + 6 + 5
+                       =16 
+16 divided by 7 we get the remainder as 2 odd days (16 days = 2 weeks + 2 odd days)
+2 odd days -Tuesday",CALENDARS
+How many leap years are there in the 1st century?,"century =100  
+$\frac{100}{4}$ =25 leap years  
+100 is not a leap year because it is not divisible by 400  
+no.of leap years =25-1=24",CALENDARS
+In a row of 50 people. Rani is 25th person from the right side of the row. Roshini is a 30th person from the left side of the row. Find out the total number of people sitting between these two.,"Total no.of people =50
+Rank of rani from right = 25
+Rank of roshini from left = 30
+Sum  of these 2 persons position = 25 + 30 =55
+Sum  of these 2 persons position > Total no.of people
+So, 
+No.of people between them = (Sum of 2 persons position ) - (Total no.of people) - 2 
+                                             =55 - 50 -2
+                                             =55 -52
+                                             =3 people",RANKING
+"In a row of girls, Aneela is 10th from the left, and Ankitha is 14th from the right. If they interchange their places, Aneela will become 12th from the left, then what will be the new position of Ankitha from the right?","The position of Aneela from left is 10
+The position of Ankitha from right  is 14
+According to the question 
+After interchanging of positions
+Then Aneela from right is 14
+And Aneela from left is 12 .
+Total no.of girls = Position of Aneela from left +  Position of Aneela from right  -1
+                         = 12 + 14 -1
+                        =26 -1
+                        =25
+After interchange  Ankitha position is 10th from left
+Total no.of girls  = Ankitha position  is from left +  Ankitha position is from right -1
+ 25= 10 + Ankitha position is from right -1
+25 -9 =Ankitha position is from right
+16=Ankitha position is from right
+",RANKING
+"If  South-West becomes North-West  , South  becomes West .and so on.What will North -East become?","
+South-West becomes North -West Then the Direction moves 90 degrees in Clock wise direction.
+South  becomes West then the Direction moves 90 degrees in  Clock wise direction.
+Then North-East becomes South-East.",DIRECTION
+"If South -East becomes South-West, West becomes North and so on. What will South become?","
+South-East becomes South-West means rotate 90 degrees clockwise from South-East.
+West becomes North means rotate 90 degrees clockwise direction from West.
+South becomes West ,if rorate 90 degrees clock wise direction from south.",DIRECTION
+"Find the missing term in : 96 , 144 ,192 , ? ,288","144-96 = 48
+192 - 144 = 48
+According to above
+Common difference is 48.
+Add 48 to 192 ,
+ = 192 + 48
+ =240
+
+                                  (or)
+48*2 = 96
+48*3 = 144
+48*4 = 192
+48*5 = 240
+48*6 = 288
+Multiply numbers with 48.",NUMBER SERIES
+"Find the next number in the series: 3 ,10, 28 ,82,?","($3^{1}$) + 0=3
+($3^{2}$) + 1 = 9 +1 
+             = 10
+($3^{3}$) + 1 = 27 + 1
+            =28
+($3^{4}$) + 1 = 81 + 1
+            = 82
+($3^{5}$)+ 1= 243 +1
+            =244 
+
+Here the series is power of 3 and add one.",NUMBER SERIES
+"ZXV ,VTR,RPN ,?","Z
+Z-2=X
+X-2=V
+ZXV
+
+V-2=T
+T-2=R
+VTR
+
+R-2=P
+P-2=N
+RPN
+
+N-2=L
+L-2=J
+NLJ",ALPHABET SERIES
+"ANN , BOO ,CPP ,?","A+13 =N
+Repeat N ,2 times
+ANN
+
+A+1=B
+B+13= O
+Repeat O ,2 times
+BOO
+
+B+1=C
+C+13 =P
+Repeat P ,2 times
+CPP
+
+C+1=D
+D+13=Q
+Repeat Q,2 times
+DQQ",ALPHABET SERIES
+PEACE : QFBDF :: HAPPY : ?,"PEACE
+P+1=Q
+E+1=F
+A+1=B
+C+1=D
+E+1=F
+QFBDF
+
+HAPPY
+H+1=I
+A+1=B
+P+1=Q
+Y+1=Z
+IBQQZ",Odd man out and Analogies
+Cat : Meow :: Dog : ?,"the second item represents the sound typically made by the first item.
+Dog : Bark",Odd man out and Analogies
+"If in a certain language READ is coded as ERDA, how can  NOTE be coded in that code?","READ 
+RE ---> ER  ( reverse 2 letters)
+AD ----> DA   ( reverse 2 letters)
+ERDA
+
+
+NOTE 
+NO  --- > ON  ( reverse 2 letters)
+TE ----> ET    ( reverse 2 letters)
+ONET",Coded language
+"
+In a certain code, ""sun moon stars"" means  ""How are you"";  ""moon stars rain"" means ""Are you ok"". What will be the code for ""ok""?","""moon stars"" is common in both phrases and matches with ""Are you,"" 
+The remaining word ""rain"" in the second phrase must mean ""ok."" 
+Therefore, ""ok"" is coded as ""rain"".",Coded language
+"Six girls are sitting on a bench in a classroom- Anitha ,Bindhu ,Ankitha,Sindhu ,Maya,Lilly . Bindhu  is to the immediate right of Anitha and  to the  immediate left of Sindhu. Lilly is between Sindhu and Maya.Who is sitting immediate right of Lilly?","According to the 1st statement
+
+ Anitha  Bindhu  Sindhu 
+
+and from 2nd statement 
+
+   Sindhu  Lilly  Maya.
+   
+ Anitha Bindhu Sindhu  Lilly  Maya
+
+Possible Positions for Ankitha
+
+Case -1 : Ankitha Anitha Bindhu Sindhu  Lilly  Maya
+
+Case -2 : Anitha Bindhu Sindhu  Lilly  Maya  Ankitha
+
+Maya is immediate Right of Lilly in 2 cases.",LINEAR ARRANGEMENTS
+"Six girls are sitting on a bench in a classroom- Anitha ,Bindhu ,Ankitha,Sindhu ,Maya,Lilly . Bindhu  is to the immediate right of Anitha and  to the immediate left of Sindhu. Lilly is between Sindhu and Maya.If Maya exchange her place with Anitha, who will be sitting to the immediate left of Bindhu?","According to the 1st statement
+
+ Anitha  Bindhu  Sindhu 
+
+and from 2nd statement 
+    Sindhu  Lilly  Maya.
+   
+ Anitha Bindhu Sindhu  Lilly  Maya
+
+Possible Positions for Ankitha
+
+Case -1 : Ankitha Anitha Bindhu Sindhu  Lilly  Maya
+
+Case -2 : Anitha Bindhu Sindhu  Lilly  Maya  Ankitha
+
+Maya exchange her place with Anitha.
+
+New  Arrangements in both cases  
+
+        Maya  Bindhu Sindhu Lilly  Anitha
+
+Maya is immediate left of Bindhu.",LINEAR ARRANGEMENTS
+"P, Q, R, S, T, U, V, and W are sitting around a circular table, facing the center. P sits third to the right of W and second to the left of Q. S sits second to the right of T. V sits second to the right of R. T is not the neighbor of Q while U is neither a neighbor of T nor of W.
+
+Starting from P's position, if all the eight are arranged in alphabetical order in the clockwise direction, the seating position of how many members (excluding P) would not change?","Arrangements after ordering - P-U-S-W-T-V-Q-R-P
+
+After alphabetic arrangement - P-Q-R-S-T-U-V-W-P
+
+Hence seating position of one member T would not change (excluding P)",CIRCULAR ARRANGEMENTS
+"
+A . Some outside are covered
+B. All covered are slow
+C. No outside is slow
+D. No Lock is slow
+E. All outside are lock
+F. Some covered are lock
+
+In the given options, the first 2 terms are statements and 3rd term is conclusion. Find the correct option where the conclusion follows the statements","The first two sentences a statement and the last is a conclusion
+If the conclusion follows the statement then it is correct
+
+statement:
+D- No lock is slow      - tick and tick    
+E- All outside are lock -  tick  and cross
+
+conclusion:
+C- No outside are slow - tick and tick
+
+In the statement outside and slow is tick and tick and in conclusion also they are tick. Hence option A is correct",SYLLOGISMS
+"A. No richer is poorer
+B. Some poorer are better
+C. All richers are worker
+D. Some workers are poorer
+E. No poorer is worker
+F. All better are worker
+In the given options, the first 2 terms are statements and 3rd term is conclusion. Find the correct option where the conclusion follows the statements","Option 1: If one of the statements is particular the conclusion must be particular, In this option it doesn't satisfy
+Option 2: If both statements are negative then no conclusion.
+Option 3: Statement
+A: No richer is poorer:- tick tick
+B  All richer are worker:- tick cross
+Common term - Rich (having atleast 1 tick)
+Poorer tick worker cross in statement But in conclusion poorer tick and worker tick. Both contradict in this situation Hence False.
+Option 4: B - Some poorer are better cross  cross     poorer = X
+F: All better are worker  tick and cross                        worker =X
+Conclusion Some worker are poorer (cross and cross)
+Hence, D is the right answer
+ ",SYLLOGISMS
+How many minimum & maximum number of pieces will be obtained when 12 cuts are made on a cube?,"Let us assume n as no. of cuts.
+The formula for Min. no. of cubes is = n+1 
+The formula for Max. no. if cubes is = (nl+1)*(nb+1)*(nh+1)
+Where, nl,nb,nh are no. of cuts along length,breadth and height respectively.
+
+Here n=12, 
+So, Min. no. of cubes obtained = 12 + 1 = 13
+For, Max pieces, divide n(here 12) in 3 parts(nl,nh,nb) in such a way that the three parts are either equal or consecutive. 
+So, for Max pieces,cuts n could be divided to = 4,4,4.
+Hence Max. no. of cubes obtained = (4+1)*(4+1)*(4+1) = 125",CUBES
+"A cube is decorated in such a way that one flower is placed at each corner, four flowers on each edge, five flowers at center of every face. Find the total number of flowers required to decorate the cube.","As there are 8 corners of a cube and each corner is reqd. 1 flower,
+So, no. of flowers reqd. in the corners are 1*8 = 8
+Given that no. of flowers required in each edge is 4, but since the corners are also the part of edge and we already placed the flowers at the corners.
+So, we can place 4-2 = 2 flowers at each edge.
+As there are 12 edges in a cube, flowers reqd. are 12*2 = 24
+Finally we need to add 5 flowers at center of each face of a cube and cube contains 6 faces,
+So flowers reqd. faces are 6*5 = 30
+
+Therefore, total flowers reqd. for decoration are = 8+24+30 = 62",CUBES
+"Param, Lorem , Rahul, Sameer, Tarun and Varun are six students studying in a class. Each of them has a different height and weight. 
+The tallest is not the heaviest. Tarun is taller than only Param but lighter than Rahul. Lorem is taller than Sameer and Param and Lorem is heavier than only Tarun and Varun.
+Param is lighter than only Sameer. Tarun is heavier than Varun. Sameer is taller than Varun and Lorem is not the tallest.
+
+
+How many of them are heavier than Tarun?","Given Conditions: 
+- Tarun is taller than only Param but lighter than Rahul. 
+- Lorem is taller than Sameer and Param. 
+- Lorem is heavier than only Tarun and Varun. 
+- Param is lighter than only Sameer. 
+- Tarun is heavier than Varun. 
+- Sameer is taller than Varun. 
+- Lorem is not the tallest. 
+
+By analyzing the above conditions, we get the arrangement as: 
+
+According to Height: Rahul>Lorem>Sameer>Varun>Tarun>Param
+According to Weight: Sameer>Param>Rahul>Lorem>Tarun>Varun
+
+So, according to above observations:
+Sameer, Param, Rahul and Lorem, are heavier than Tarun. 
+Hence answer should be 4. (None of the options)",PUZZLES
+"Param, Lorem , Rahul, Sameer, Tarun and Varun are six students studying in a class. Each of them has a different height and weight. 
+The tallest is not the heaviest. Tarun is taller than only Param but lighter than Rahul. Lorem is taller than Sameer and Param and Lorem is heavier than only Tarun and Varun.
+Param is lighter than only Sameer. Tarun is heavier than Varun. Sameer is taller than Varun and Lorem is not the tallest.
+
+How many of them are shorter than Lorem?","Given Conditions: 
+- Tarun is taller than only Param but lighter than Rahul. 
+- Lorem is taller than Sameer and Param. 
+- Lorem is heavier than only Tarun and Varun. 
+- Param is lighter than only Sameer. 
+- Tarun is heavier than Varun. 
+- Sameer is taller than Varun. 
+- Lorem is not the tallest. 
+
+By analyzing the above conditions, we get the arrangement as: 
+
+According to Height: Rahul>Lorem>Sameer>Varun>Tarun>Param
+According to Weight: Sameer>Param>Rahul>Lorem>Tarun>Varun
+
+So, according to above observations:
+Sameer, Varun, Tarun and Param, are shorter than Lorem. 
+Hence answer should be 4. ",PUZZLES
+"QUESTION: Who among Bharath, Somu, Akash and Dhanush is the youngest?
+STATEMENTS:
+Statement I: Bharath is elder than Somu. Dhanush is younger than Somu.
+Statement II: Akash is younger than Somu and elder than Dhanush.
+","As per the question we should find who is the youngest among Bharath,Somu, Akash and Dhanush.
+Considering the statement I;
+Bharath is elder than Somu. Dhanush is younger than Somu.
+=>   Bharath > Somu >Dhanush
+
+Considering the statement I;
+ Akash is younger than Somu and elder than Dhanush.
+=>   Bharath > Somu >Akash>Dhanush
+
+We can conclude Dhanush is youngest
+So,Both I and II are sufficient.",DATA SUFFICIENCY
+"QUESTION: Two trains are travelling towards each other. What is the distance between them just before 30 minutes they meet?
+STATEMENTS:
+I. They were originally 100 km apart
+II. Speed of a train A is 30 km / hr and speed of train B is 40 km /hr apart."," Using II we can.
+Since the trains are going to meet 30 minutes, which means, the relative speed=30+40 = 70 km/hr.
+So the gap = speed x time. So we can find the distance.
+=>Convert 30 minutes to hours: 30 minutes = 0.5 hours
+=>Multiply the relative speed by the time remaining: 70 km/hr * 0.5 hours = 35 km
+But in the statement - I already given :
+They were originally 100 km apart
+So , 100 - 35 = 65 km
+So ,they travelled 65 km before 30 minutes they meet.
+Therefore Both I and II are sufiicient.",DATA SUFFICIENCY
